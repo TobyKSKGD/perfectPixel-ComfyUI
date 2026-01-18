@@ -3,7 +3,7 @@
 
 PerfectPixel 代码：https://github.com/theamusing/perfectPixel
 
-本项目将 PerfectPixel 的项目写成 ComfyUI 的节点插件，以便调用。具体 PerfectPixel 效果与只用方法参考源代码 github 地址即可。
+本项目仅将 PerfectPixel 的项目写成 ComfyUI 的节点插件，以便调用。具体 PerfectPixel 效果与只用方法参考源代码 github 地址即可。
 
 ![节点示例](./Assets/example.png)
 
