@@ -7,6 +7,12 @@ PerfectPixel 代码：https://github.com/theamusing/perfectPixel
 
 ![节点示例](./Assets/example.png)
 
+Perfect Pixel(Grid Restore) 节点可调节参数为：
+
+- sampling：采样方式
+- export_scale：缩放/输出比例
+- backend：Auto（自动选择）、OpenCV Backend（带 OpenCV 版本）、Lightweight Backend（轻量级，不带 OpenCV 版本）
+
 ## Getting Started
 
 将本项目的 `PerfectPixelComfy` 文件直接复制进 `ComfyUI/custom_nodes` 中，重启 ComfyUI 即可。
