@@ -17,7 +17,7 @@ Perfect Pixel(Grid Restore) 节点可调节参数为：
 
 ### 一键安装
 
-如果你已经下载了 git，在 `ComfyUI/custom_nodes` 下直接使用下面命令安装并重启 ComfyUI 即可：
+如果已经安装了 git，在 `ComfyUI/custom_nodes` 下直接使用下面命令安装并重启 ComfyUI 即可：
 
 ````bash
 git clone https://github.com/TobyKSKGD/perfectPixel-ComfyUI.git
