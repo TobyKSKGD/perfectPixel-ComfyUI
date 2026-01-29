@@ -29,6 +29,8 @@ git clone https://github.com/TobyKSKGD/perfectPixel-ComfyUI.git
 
 在左边的节点搜索栏中搜索 `Perfect Pixel(Grid Restore)` 即可找到本节点。节点具体位于 `图像 -> 后处理 -> Perfect Pixel(Grid Restore)` 中。
 
+## 依赖项
+
 项目依赖 numpy 和 OpenCV（可选）库：
 
 ````bash
